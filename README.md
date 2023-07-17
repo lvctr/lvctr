@@ -6,7 +6,14 @@ My expertise is in **networking**, **virtualisation**, and **simulation astrophy
 
 ## Skills
 
-### Languages
+### Natural Languages
+
+![Japanese](https://img.shields.io/badge/🇯🇵_Japanese-25_years-grey?style=flat&labelColor=darkred)
+![English](https://img.shields.io/badge/🇬🇧_English-20_years-grey?style=flat&labelColor=gold)
+![Bengali](https://img.shields.io/badge/🇧🇩_Bengali-25_years-grey?style=flat&labelColor=darkgreen)
+![French](https://img.shields.io/badge/🇫🇷_French-10_years-grey?style=flat&labelColor=silver)
+
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-10_years-grey?style=flat&logo=python&logoColor=ffdd54&labelColor=3670A0)
 ![Dart](https://img.shields.io/badge/Dart-1_year-grey?style=flat&logo=dart&logoColor=white&labelColor=%230175C2)
