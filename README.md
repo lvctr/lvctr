@@ -13,7 +13,7 @@ My expertise is in **networking**, **virtualisation**, and **simulation astrophy
 ![TypeScript](https://img.shields.io/badge/TypeScript-4_years-grey?style=flat&logo=typescript&logoColor=white&labelColor=%23007ACC)
 ![JavaScript](https://img.shields.io/badge/JavaScript-4_years-grey?style=flat&logo=javascript&logoColor=%23F7DF1E&labelColor=%23323330)
 ![Kotlin](https://img.shields.io/badge/Kotlin-2_years-grey?style=flat&logo=kotlin&logoColor=white&labelColor=%237F52FF)
-![Julia](https://img.shields.io/badge/Julia-1_year-grey?style=flat&logo=kotlin&logoColor=white&labelColor=9558B2)
+![Julia](https://img.shields.io/badge/Julia-1_year-grey?style=flat&logo=julia&logoColor=white&labelColor=9558B2)
 ![Ruby](https://img.shields.io/badge/Ruby-2_years-grey?style=flat&logo=ruby&logoColor=white&labelColor=%23CC342D)
 ![OCaml](https://img.shields.io/badge/OCaml-1_year-grey?style=flat&logo=ocaml&logoColor=white&labelColor=orange)
 ![Java](https://img.shields.io/badge/Java-2_years-grey?style=flat&logo=openjdk&logoColor=white&labelColor=%23ED8B00)
