@@ -63,4 +63,4 @@ My expertise is in **networking**, **virtualisation**, and **simulation astrophy
 ## Links
 
 [![Twitter](https://img.shields.io/badge/Twitter-@CtrlAltF7-grey?style=flat&logo=twitter&logoColor=white&labelColor=blue)](https://twitter.com/CtrlAltF7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-akra-grey?style=flat&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/akra/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lvctr-grey?style=flat&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/lvctr/)
