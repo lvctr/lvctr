@@ -1,6 +1,6 @@
 # Welcome
 
-Hi, my name is **Alvi Kazi**, and I am a Site Reliability Engineer at [**Sakura Internet**](https://github.com/sakura-internet).
+Hi, my name is **Alvi Kazi**, and I am a Software and Infrastructure Engineer at [**Sakura Internet**](https://github.com/sakura-internet).
 
 My expertise is in **networking**, **virtualisation**, and **simulation astrophysics**.
 
