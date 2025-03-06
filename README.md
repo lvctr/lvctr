@@ -2,8 +2,6 @@
 
 Hi, my name is **Alvi Kazi**, and I am a Software and Infrastructure Engineer at [**Sakura Internet**](https://github.com/sakura-internet).
 
-I work on the cloud GPU infrastructure and STAC indexing platforms for [Tellus](https://www.tellusxdp.com/ja/), as well as open source tools for [Sakura Cloud](https://github.com/sacloud) (mainly [Terraform](https://github.com/sacloud/terraform-provider-sakuracloud)).
-
 My expertise is in **networking**, **virtualisation**, and **simulation astrophysics**.
 
 ## Skills
